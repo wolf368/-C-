@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\变量的认识\变量的认识\bin\Debug\变量的认识.exe.config
+C:\Users\Admin\source\repos\变量的认识\变量的认识\bin\Debug\变量的认识.exe
+C:\Users\Admin\source\repos\变量的认识\变量的认识\bin\Debug\变量的认识.pdb
+C:\Users\Admin\source\repos\变量的认识\变量的认识\obj\Debug\变量的认识.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\变量的认识\变量的认识\obj\Debug\变量的认识.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\变量的认识\变量的认识\obj\Debug\变量的认识.exe
+C:\Users\Admin\source\repos\变量的认识\变量的认识\obj\Debug\变量的认识.pdb
