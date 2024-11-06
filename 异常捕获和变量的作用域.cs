@@ -20,6 +20,7 @@ namespace _2024._11._5
                 //Console.WriteLine(number * 2);
                 //或者将此代码放外面
             }
+        //try和catch必须紧密相连，中间不能有代码
             catch
             {
                 Console.WriteLine("输入的内容不能转化成数字");
