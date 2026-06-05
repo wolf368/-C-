@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Timer练习\Timer练习\bin\Debug\Timer练习.exe.config
+C:\Users\Admin\source\repos\Timer练习\Timer练习\bin\Debug\Timer练习.exe
+C:\Users\Admin\source\repos\Timer练习\Timer练习\bin\Debug\Timer练习.pdb
+C:\Users\Admin\source\repos\Timer练习\Timer练习\obj\Debug\Timer练习.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Timer练习\Timer练习\obj\Debug\Timer练习.Form1.resources
+C:\Users\Admin\source\repos\Timer练习\Timer练习\obj\Debug\Timer练习.Properties.Resources.resources
+C:\Users\Admin\source\repos\Timer练习\Timer练习\obj\Debug\Timer练习.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Timer练习\Timer练习\obj\Debug\Timer练习.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Timer练习\Timer练习\obj\Debug\Timer练习.exe
+C:\Users\Admin\source\repos\Timer练习\Timer练习\obj\Debug\Timer练习.pdb
