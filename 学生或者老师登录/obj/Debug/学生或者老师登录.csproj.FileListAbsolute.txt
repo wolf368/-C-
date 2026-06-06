@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\学生或者老师登录\学生或者老师登录\obj\Debug\学生或者老师登录.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\学生或者老师登录\学生或者老师登录\obj\Debug\学生或者老师登录.Form1.resources
+C:\Users\Admin\source\repos\学生或者老师登录\学生或者老师登录\obj\Debug\学生或者老师登录.Properties.Resources.resources
+C:\Users\Admin\source\repos\学生或者老师登录\学生或者老师登录\obj\Debug\学生或者老师登录.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\学生或者老师登录\学生或者老师登录\obj\Debug\学生或者老师登录.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\学生或者老师登录\学生或者老师登录\bin\Debug\学生或者老师登录.exe.config
+C:\Users\Admin\source\repos\学生或者老师登录\学生或者老师登录\bin\Debug\学生或者老师登录.exe
+C:\Users\Admin\source\repos\学生或者老师登录\学生或者老师登录\bin\Debug\学生或者老师登录.pdb
+C:\Users\Admin\source\repos\学生或者老师登录\学生或者老师登录\obj\Debug\学生或者老师登录.exe
+C:\Users\Admin\source\repos\学生或者老师登录\学生或者老师登录\obj\Debug\学生或者老师登录.pdb
