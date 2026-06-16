@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d982fe49754abe469b6f7c06b9b4f59, type: 3}
+  m_Name: Greeting with Bob
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 9f3733710f93b40479ec5544bb443e5b, type: 2}
+    text: 1
+  - speaker: {fileID: 11400000, guid: 9f3733710f93b40479ec5544bb443e5b, type: 2}
+    text: 2
+  - speaker: {fileID: 11400000, guid: cf065000326e3584ea9ae6a09742806e, type: 2}
+    text: 3
+  options:
+  - optionText: Tell me more
+    nextDialogue: {fileID: 11400000, guid: 7e57bd4e08176554dbbe785f88711856, type: 2}
+  - optionText: No interesting
+    nextDialogue: {fileID: 11400000, guid: 0c21cfa78ea7b12449e12e2b2d3f701d, type: 2}
