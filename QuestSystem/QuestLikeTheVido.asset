@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd695e78fb8af44bb805be50820c3aa, type: 3}
+  m_Name: QuestLikeTheVido
+  m_EditorClassIdentifier: 
+  questName: Like The Video
+  questDescription: Take a moment to hit like button.
+  questLevel: 99
+  objectives:
+  - description: Mushroom
+    TargetItem: {fileID: 11400000, guid: 1cc2322a6799638418aae51b2ce9b6f2, type: 2}
+    reguiredAmount: 3
+  rewards:
+  - item: {fileID: 11400000, guid: ce2505c82dae2e74db2458ac02a08c84, type: 2}
+    quantity: 100
+  - item: {fileID: 11400000, guid: 57758af56f2014e40a63143f44133c3c, type: 2}
+    quantity: 50
+  - item: {fileID: 11400000, guid: 915209b10c611ba489477e85020ea3b6, type: 2}
+    quantity: 1
